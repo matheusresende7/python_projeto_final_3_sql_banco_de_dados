@@ -1,2 +1,4 @@
 # python_projeto_final_3_sql_banco_de_dados
  Projeto para consumir dados de um banco de dados usando SQL.
+
+ Nesse projeto de integração do Python com SQL, foi realizada uma consulta à informações de tabelas fato e tabelas dimensão em um banco de dados, para extração de informações como produto, categoria, país, informações do cliente, receita, custo, entre outras. Para manter as boas práticas, essa consulta extraiu somente as informações relevantes de cada tabela, fazendo o uso de técnicas de JOINs, FILTERS e CTEs para otimizar esse fluxo de dados e evitar custos desnecessários. E em seguida, o dataset foi salvo em formato .csv para que possa ser utilizado em outros projetos da empresa.
