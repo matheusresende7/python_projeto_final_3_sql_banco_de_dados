@@ -1,4 +1,5 @@
 order_number,order_date,category,customer_id,name,gender,country,order_quantity,sales_amount,total_product_cost,sales_profit
+SO51250,2013-01-01,Clothing,19360,Joanna Hernandez,Female,United Kingdom,1,53.99,41.5723,12.4177
 SO51259,2013-01-01,Bikes,11433,Maurice Shan,Male,France,1,2384.07,1481.9379,902.1321
 SO51259,2013-01-01,Accessories,11433,Maurice Shan,Male,France,1,8.99,3.3623,5.6277
 SO51259,2013-01-01,Accessories,11433,Maurice Shan,Male,France,1,4.99,1.8663,3.1237
@@ -19,8 +20,6 @@ SO51282,2013-01-03,Accessories,11008,Rob Verhoff,Female,Australia,1,2.29,0.8565,
 SO51288,2013-01-04,Bikes,11335,Carla Raman,Female,Germany,1,2319.99,1265.6195,1054.3705
 SO51288,2013-01-04,Accessories,11335,Carla Raman,Female,Germany,1,21.98,8.2205,13.7595
 SO51288,2013-01-04,Accessories,11335,Carla Raman,Female,Germany,1,2.29,0.8565,1.4335
-SO51291,2013-01-04,Accessories,11447,Jennifer Roberts,Female,Australia,1,9.99,3.7363,6.2537
-SO51291,2013-01-04,Accessories,11447,Jennifer Roberts,Female,Australia,1,4.99,1.8663,3.1237
 SO51296,2013-01-04,Bikes,19417,Alexis Foster,Female,Germany,1,1120.49,713.0798,407.4102
 SO51296,2013-01-04,Accessories,19417,Alexis Foster,Female,Germany,1,34.99,13.0863,21.9037
 SO51306,2013-01-05,Bikes,11333,Emily Miller,Female,United Kingdom,1,2319.99,1265.6195,1054.3705
@@ -35,7 +34,6 @@ SO51309,2013-01-05,Accessories,15553,Ivan Lopez,Male,United States,1,9.99,3.7363
 SO51309,2013-01-05,Accessories,15553,Ivan Lopez,Male,United States,1,4.99,1.8663,3.1237
 SO51309,2013-01-05,Accessories,15553,Ivan Lopez,Male,United States,1,34.99,13.0863,21.9037
 SO51310,2013-01-05,Bikes,11328,Julian Griffin,Male,Canada,1,2319.99,1265.6195,1054.3705
-SO51312,2013-01-05,Accessories,28207,Larry Moreno,Male,Australia,1,4.99,1.8663,3.1237
 SO51312,2013-01-05,Clothing,28207,Larry Moreno,Male,Australia,1,63.5,23.749,39.751
 SO51313,2013-01-05,Bikes,28203,Victor Gomez,Male,Australia,1,2384.07,1481.9379,902.1321
 SO51315,2013-01-05,Bikes,11003,Christy Zhu,Female,Australia,1,2294.99,1251.9813,1043.0087
@@ -78,24 +76,26 @@ SO51347,2013-01-07,Accessories,11062,Noah Powell,Male,United States,1,34.99,13.0
 SO51351,2013-01-07,Bikes,11446,Bethany Chander,Female,Australia,1,2319.99,1265.6195,1054.3705
 SO51351,2013-01-07,Accessories,11446,Bethany Chander,Female,Australia,1,34.99,13.0863,21.9037
 SO51354,2013-01-07,Bikes,11454,Melinda Navarro,Female,Australia,1,2294.99,1251.9813,1043.0087
-SO51356,2013-01-07,Accessories,19393,Miguel Anderson,Male,United States,1,4.99,1.8663,3.1237
 SO51359,2013-01-08,Bikes,18240,Arthur Smith,Male,Australia,1,2443.35,1554.9479,888.4021
 SO51359,2013-01-08,Accessories,18240,Arthur Smith,Male,Australia,1,8.99,3.3623,5.6277
 SO51359,2013-01-08,Accessories,18240,Arthur Smith,Male,Australia,1,4.99,1.8663,3.1237
 SO51359,2013-01-08,Clothing,18240,Arthur Smith,Male,Australia,1,53.99,41.5723,12.4177
 SO51359,2013-01-08,Clothing,18240,Arthur Smith,Male,Australia,1,8.99,6.9223,2.0677
-SO51362,2013-01-08,Accessories,16797,Evan Reed,Male,United States,1,3.99,1.4923,2.4977
-SO51362,2013-01-08,Accessories,16797,Evan Reed,Male,United States,1,24.99,9.3463,15.6437
-SO51362,2013-01-08,Accessories,16797,Evan Reed,Male,United States,1,2.29,0.8565,1.4335
+SO51361,2013-01-08,Accessories,25795,Marie Gomez,Female,Germany,1,3.99,1.4923,2.4977
+SO51361,2013-01-08,Accessories,25795,Marie Gomez,Female,Germany,1,2.29,0.8565,1.4335
+SO51361,2013-01-08,Accessories,25795,Marie Gomez,Female,Germany,1,32.6,12.1924,20.4076
+SO51361,2013-01-08,Bikes,25795,Marie Gomez,Female,Germany,1,2443.35,1554.9479,888.4021
+SO51360,2013-01-08,Accessories,11388,Joseph Martin,Male,United Kingdom,1,7.95,2.9733,4.9767
+SO51360,2013-01-08,Accessories,11388,Joseph Martin,Male,United Kingdom,1,4.99,1.8663,3.1237
 SO51363,2013-01-08,Bikes,15557,Nathaniel Murphy,Male,United States,1,539.99,294.5797,245.4103
 SO51363,2013-01-08,Accessories,15557,Nathaniel Murphy,Male,United States,1,9.99,3.7363,6.2537
 SO51363,2013-01-08,Accessories,15557,Nathaniel Murphy,Male,United States,1,4.99,1.8663,3.1237
-SO51362,2013-01-08,Bikes,16797,Evan Reed,Male,United States,1,1700.99,1082.51,618.48
+SO51360,2013-01-08,Accessories,11388,Joseph Martin,Male,United Kingdom,1,9.99,3.7363,6.2537
 SO51365,2013-01-08,Bikes,11156,Maria Roberts,Female,United States,1,2294.99,1251.9813,1043.0087
 SO51365,2013-01-08,Accessories,11156,Maria Roberts,Female,United States,1,4.99,1.8663,3.1237
 SO51365,2013-01-08,Accessories,11156,Maria Roberts,Female,United States,1,35.0,13.09,21.91
 SO51365,2013-01-08,Accessories,11156,Maria Roberts,Female,United States,1,54.99,20.5663,34.4237
-SO51361,2013-01-08,Accessories,25795,Marie Gomez,Female,Germany,1,2.29,0.8565,1.4335
-SO51361,2013-01-08,Accessories,25795,Marie Gomez,Female,Germany,1,3.99,1.4923,2.4977
-SO51361,2013-01-08,Accessories,25795,Marie Gomez,Female,Germany,1,32.6,12.1924,20.4076
-SO51361,2013-01-08,Bikes,25795,Marie Gomez,Female,Germany,1,2443.35,1554.9479,888.4021
+SO51360,2013-01-08,Bikes,11388,Joseph Martin,Male,United Kingdom,1,2319.99,1265.6195,1054.3705
+SO51358,2013-01-07,Accessories,17833,Monique Suarez,Female,Germany,1,2.29,0.8565,1.4335
+SO51358,2013-01-07,Accessories,17833,Monique Suarez,Female,Germany,1,4.99,1.8663,3.1237
+SO51358,2013-01-07,Accessories,17833,Monique Suarez,Female,Germany,1,28.99,10.8423,18.1477
